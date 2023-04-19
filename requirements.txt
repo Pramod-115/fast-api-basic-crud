@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 sqlalchemy
+paslib
+python-jose
